@@ -1,6 +1,6 @@
 # Quiz: What type of JavaScript Hacker are you? (RESULTS)
 
-**I made a sample mobile app for JS HACKERS** https://gist.github.com/esova-ana/743a55bee8a6c9f1def1438b3d546abd
+**I made a sample iOS mobile app for JS HACKERS** https://itunes.apple.com/us/app/quiz-what-type-javascript/id1153368376?ls=1&mt=8
 
 ## If you want to see what hackers think about these statements:
 
