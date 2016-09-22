@@ -1,7 +1,8 @@
 # Quiz: What type of JavaScript Hacker are you? (RESULTS)
 
-I made a sample mobile app for JS HACKERS https://gist.github.com/esova-ana/743a55bee8a6c9f1def1438b3d546abd
-If you want to see what hackers think about these statements:
+**I made a sample mobile app for JS HACKERS** https://gist.github.com/esova-ana/743a55bee8a6c9f1def1438b3d546abd
+
+## If you want to see what hackers think about these statements:
 
 1. It's a waste of time to learn any other language than #JavaScript.The future is with JS :) 
 
@@ -15,4 +16,4 @@ If you want to see what hackers think about these statements:
 
 6. With #VR all the jobs will be remote. On-site gatherings will be for fun.
 
-Click here:
+## Click here:
