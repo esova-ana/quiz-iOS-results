@@ -4,7 +4,7 @@
 
 ## If you want to see what hackers think about these statements:
 
-1. It's a waste of time to learn any other language than #JavaScript.The future is with JS :) 
+1. It's a waste of time to learn any other language than #JavaScript.The future is with JS :)
 
 2. Framework vs. #hypermodular development is like planned economy vs. free market.
 
@@ -17,3 +17,6 @@
 6. With #VR all the jobs will be remote. On-site gatherings will be for fun.
 
 ## Click here:
+https://ninabreznik.github.io/quiz-iOS-results/
+
+If you want to see how I made this simple page, check the **recipe.md** file.
