@@ -32,6 +32,7 @@ function quizComponent () {
     padding-bottom: 200px;
   }
   .resultTitle{
+    margin-top: 5%;
     font-size: 1em;
     padding: 5px;
     color: ${darkBrown}
@@ -69,6 +70,7 @@ function quizComponent () {
     return yo`
       <div class="${css.results}">
         <div class="${css.resultTitle}">
+        SEE WHAT JS HACKERS THINK ABOUT THESE STATEMENTS:<br><br>
           1. It's a waste of time to learn any other language than
           #JavaScript.The future is with JS :) <br>
           2. Framework vs. #hypermodular development is like
