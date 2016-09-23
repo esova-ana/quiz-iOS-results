@@ -19,4 +19,4 @@
 ## Click here:
 https://ninabreznik.github.io/quiz-iOS-results/
 
-If you want to see how I made this simple page, check the [**recipe.md**] (https://github.com/ninabreznik/quiz-iOS-results/blob/gh-pages/recipe.md) file.
+If you want to see how I made this simple dashboard to check results of the quiz, click on [**recipe.md**] (https://github.com/ninabreznik/quiz-iOS-results/blob/gh-pages/recipe.md) file.
